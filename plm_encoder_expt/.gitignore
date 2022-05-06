@@ -1,0 +1,6 @@
+experiments*
+slurm*
+experiments/
+results*
+lightning_logs*
+*__pycache__*
